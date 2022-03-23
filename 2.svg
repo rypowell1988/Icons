@@ -1,0 +1,13 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 52" width="52" height="52">
+	<title>New Project</title>
+	<defs>
+		<image  width="52" height="52" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADQAAAA0AQMAAAD/tomoAAAAAXNSR0IB2cksfwAAAANQTFRFAAAAp3o92gAAAAF0Uk5TAEDm2GYAAAAOSURBVHicY2AYBYMZAAABoAABkA5poAAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		.s0 { fill: none;stroke: #ffc815;stroke-width: 2 } 
+		.s1 { fill: #ffc815 } 
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+	<circle id="Shape 1" class="s0" cx="26" cy="26" r="25"/>
+	<path id="2" class="s1" aria-label="2"  d="m35.7 36h-11.4c7-7.7 11.3-13.5 11.3-18.9 0-4.5-3.3-7.5-10.2-7.5-4.7 0-8.2 1.4-8.2 1.4l0.8 4.5c0 0 3.7-1.1 7.4-1.1 2.5 0 4.7 0.7 4.7 3.2 0 4.5-4.9 10.2-13.5 18.7v4.5h19z"/>
+</svg>
